@@ -4,7 +4,7 @@
 
   ## Description
 
-  This repository is for the 16th weekly challenge for the University of Minnesota coding boot camp submitted by Tony Busch. This project is remake of the previous professional portfolio while incorperating React features.
+  This repository is for the 16th weekly challenge for the University of Minnesota coding boot camp submitted by Tony Busch. This project is remake of the previous professional portfolio while incorporating React features.
 
   ## Table of Contents
   
@@ -19,7 +19,7 @@
   
   ## Usage
 
-  This application is personal professional portfolio demonstarting profecciency in React
+  This application is personal professional portfolio demonstrating proficiency in React.
   
   ![React Portfolio](/public/assets/images/Screenshot.JPG)
 
