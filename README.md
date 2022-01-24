@@ -21,7 +21,7 @@
 
   This application is personal professional portfolio demonstrating proficiency in React.
   
-  ![React Portfolio](/public/assets/images/Screenshot.JPG)
+  ![React Portfolio](./public/assets/images/Screenshot.JPG)
 
   
   ## License
