@@ -6,7 +6,9 @@ function Header(props) {
     const {
         categories = [],
         setCurrentCategory,
-        currentCategory
+        currentCategory,
+        contactSelected,
+        setContactSelected
     } = props;
 
     return (
@@ -14,7 +16,8 @@ function Header(props) {
             <h1>
                 <a href="/">TB</a>
             </h1>
-            <Navigation categories = {categories} setCurrentCategory = {setCurrentCategory} currentCategory = {currentCategory}></Navigation>
+
+            <Navigation contactSelected = {contactSelected} setContactSelected = {setContactSelected} categories = {categories} setCurrentCategory = {setCurrentCategory} currentCategory = {currentCategory}></Navigation>
         </header>
     )
 }

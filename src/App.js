@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import Project from './Components/Project';
 
 function App() {
+  const [contactSelected, setContactSelected] = useState(false);
   const [categories] = useState([
     {
       name:'aboutMe',
@@ -32,7 +33,11 @@ function App() {
       setCurrentCategory={setCurrentCategory}
       currentCategory={currentCategory}
     ></Header>
-    <Project currentCategory={currentCategory}></Project>
+    <Project
+      currentCategory={currentCategory}
+      contactSelected={contactSelected}
+      setContactSelected={setContactSelected}
+    ></Project>
     <Footer></Footer>
     </>
   );

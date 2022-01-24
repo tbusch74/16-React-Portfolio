@@ -17,7 +17,7 @@ body {
 }
 
 header {
-  background-image:url("../public/banner-background.jpg");
+  background-image:url("../public/assets/images/banner-background.jpg");
   background-size: cover;
   display: flex;
   position: sticky;
@@ -143,7 +143,7 @@ section div h2 {
 
 .linkedin a {
   text-decoration: none;
-  color: var(--primary-font-color);
+  color: var(--secondary-font-color);
 }
 
 footer {
@@ -152,6 +152,43 @@ footer {
   width: 100%;
   padding: 25px;
   margin-top: 30px;
+}
+
+.resumeButtonBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.resumeButton {
+  text-align: center;
+  padding: 12px;
+  margin-top: 18px;
+  border-radius: 8px;
+  background-color: var(--secondary-color);
+}
+
+#contact-form {
+  display: flex;
+  align-items: flex-end;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+#contact-form div {
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+}
+
+#contact-form button {
+  align-self: center;
+}
+
+#contact-form textarea,input {
+  width: 100%;
 }
 
 @media screen and (max-width: 768px) {
