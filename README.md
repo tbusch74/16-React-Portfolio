@@ -4,7 +4,7 @@
 
   ## Description
 
-  This repository is for the 16th weekly challenge for the University of Minnesota coding boot camp submitted by Tony Busch. This project is remake of the previous professional portfolio while incorperating React features
+  This repository is for the 16th weekly challenge for the University of Minnesota coding boot camp submitted by Tony Busch. This project is remake of the previous professional portfolio while incorperating React features.
 
   ## Table of Contents
   
@@ -30,7 +30,7 @@
   
   ## Questions
 
-  The deployed application can be found at: < https://tbusch74.github.io/16-React-Portfolio/>
+  The deployed application can be found at: <https://tbusch74.github.io/16-React-Portfolio/>
 
   View this project and my other projects at <https://github.com/tbusch74>
 
