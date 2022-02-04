@@ -41,7 +41,7 @@ function Project({ currentCategory}) {
                     <a href="https://boiling-refuge-70605.herokuapp.com/"><img src="./assets/images/BabyBrain.JPG" alt="Baby Brain group project screenshot" /></a>
                 </article>
                 <article className="project">
-                    <a href="https://rocky-forest-66627.herokuapp.com/"><img src="./assets/images/ParkFinder.JPG" alt="TravelLog group project screenshot" /></a>
+                    <a href="https://rocky-forest-66627.herokuapp.com/"><img src="./assets/images/TravelLog.JPG" alt="TravelLog group project screenshot" /></a>
                 </article>
                 <article className="project">
                     <a href="./coming-soon.html"><img src="http://via.placeholder.com/350x150/000000/FFFFFF/?text=Another+Project" alt="placeholder image for a group project" /></a>
